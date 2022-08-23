@@ -1,1 +1,1 @@
-I am ROSHITHA P P. I have completed Data Analyst course and currently working on projects.I am interested in Python Programming,Tableau,MySQL.
+I have done MySQL assignments as a part of my course.
