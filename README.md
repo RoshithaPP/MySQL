@@ -1,1 +1,1 @@
-I am ROSHITHA P P. I am adding my assignments to this GITHUB account for my learning purpose . I am interested in Python Programming,Tableau,MySQL.
+I am ROSHITHA P P. I have completed Data Analyst course and currently working on projects.I am interested in Python Programming,Tableau,MySQL.
